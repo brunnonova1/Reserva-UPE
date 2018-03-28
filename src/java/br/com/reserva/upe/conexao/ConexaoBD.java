@@ -4,6 +4,11 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ * @author Adjailson
+ */
+
 public class ConexaoBD {
     
     private static Connection com = null;
